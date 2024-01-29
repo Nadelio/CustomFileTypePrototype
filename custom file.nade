@@ -1,0 +1,11 @@
+// This is a custom file type meant to work with Java to provide large amounts of constant variables. 
+
+int = 1001;
+String ="Hello World";
+boolean = true;
+int = 6969;
+String ="haha funi";
+boolean= false;
+int= 47473892;
+String="very long string, hopefully this works, I would be very sad if it doesn't, anyways, hi, glad to see you reading this!";
+String[]={"String","Hello","World"};
